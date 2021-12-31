@@ -13,4 +13,4 @@ Ecommerce-backend is a backend application for an e-commerce website that uses t
 Deployed Application: https://mnijjar24.github.io/ecommercebackend/
 Github Repo: https://github.com/mnijjar24/ecommercebackend
 Link to walkthrough video: https://www.youtube.com/watch?v=VxSd3gXnAAM
-Heroku: 
+Heroku: https://ecommerceback-end.herokuapp.com/
