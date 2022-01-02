@@ -6,7 +6,11 @@ Ecommerce-backend is a backend application for an e-commerce website that uses t
 
 ## Screenshots of the Ecommerce-Backend 
 
+![1](https://user-images.githubusercontent.com/87215165/147866034-d8f591f5-0058-40ff-be96-c3853b0fc649.png)
 
+![2](https://user-images.githubusercontent.com/87215165/147866036-3cfe02fb-632d-49ed-ac07-d189cd953f78.png)
+
+![3](https://user-images.githubusercontent.com/87215165/147866037-baa771ae-b3fb-4aae-835a-cfe9af884c5c.png)
 
 ## Links
 
